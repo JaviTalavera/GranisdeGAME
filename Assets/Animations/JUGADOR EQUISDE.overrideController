@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: JUGADOR EQUISDE
+  m_Controller: {fileID: 9100000, guid: c463a1ff80faa8c408c9e980a40d6462, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: fd34e1d8f382e284d9728257eff52b75, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 76e7e75008140194694c7a456ef6cb73, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a4b49da8ea859b94da14549fea1802e6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fa0075b1c9b550c4ba47902316bc259d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1ec1e928858554541974c1ee1b9b98ce, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bd9f6bccad071b941a1536d9defcb2e3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1bbf4ce20c835074c8405c5becb4dfe4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bcc344c7efec1b4428c10bb8cd68a31e, type: 2}

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d4c40193a5646004eb62b712c3719989
+timeCreated: 1512575317
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CrimeFighter BB
+  fontNames:
+  - CrimeFighter BB
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
